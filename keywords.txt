@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Firmata
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HttpRequest	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GetClientIP	KEYWORD2
+IPToString	KEYWORD2
+Sleep	KEYWORD2
+DebugPrint	KEYWORD2
+
+ReadHttpLine	KEYWORD2
+ReadHttpContent	KEYWORD2
+ReadHttpHeader	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#MAX_DATA_BYTES	LITERAL1
